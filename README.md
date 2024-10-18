@@ -8,7 +8,7 @@
 |1|2|3|4|
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./images/3.png)
 
 ## Beurten
 i
